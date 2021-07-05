@@ -15,7 +15,7 @@ Heya, I'm creating this repository to put in common game development questions. 
 10. Ever worked on pipelines?
 11. Which pipeline gives better results in mobile?
 12. What is the order of execution of event functions in Unity?
-13. ave experience in making custom editors?
+13. Have experience in making custom editors?
 14. Aware of shader scripting or shadergraphs?
 
 Along with these, some good companies will ask medium difficulty data structures questions too.
